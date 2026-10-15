@@ -11,3 +11,5 @@ Calculator and grading exercises
 
 ## Lesson3
 Loops and conditional statements
+
+All programs tested and working correctly.
