@@ -1,6 +1,6 @@
 # Midterm Source Files
 ELEC 4 - BSIT 4-2
-
+James Angelo Torres 
 Python programs from the midterm period.
 
 ## Lesson1
